@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "oh hai there!?"
+echo "oh hai there!?xxw"
 
 git log
 
