@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "oh hai there!?xxw"
+echo "oh hai there!?xxwsddf"
 
 git log
 
