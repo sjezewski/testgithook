@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "oh hai"
+echo "oh hai there!"
+
+git log
 
 
